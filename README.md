@@ -19,6 +19,6 @@ I am a MCA student at PSG College of Atrs & Science , driven by a curiosity of l
 - Currently learning java,Javascript - JQuery...
 
 ## Get in touch
-- Connect with me [Linkedin][https://www.linkedin.com/in/shakthi-s-08b179293]
+- Connect with me [Linkedin](https://www.linkedin.com/in/shakthi-s-08b179293)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
