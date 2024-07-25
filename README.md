@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Shakthi 👋
 
-<!--
-**shakthi198/shakthi198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a MCA student at PSG College of Atrs & Science , driven by a curiosity of learning new stuffs in technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-Here are some ideas to get you started:
+## About Me 😊
+- I'm currently pursuing my MCA at PSG College of Arts & Science .
+- I'm a self learning person
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+-  HTML
+-  CSS
+-  Javascript
+-  MySQL
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,mysql)](https://skillicons.dev)
+
+## Currently Exploring 💫
+- Learning web development
+- Currently learning java,Javascript - JQuery...
+
