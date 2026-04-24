@@ -25,6 +25,6 @@ I recently completed my MCA and have hands-on experience through a web developme
 - Currently learning java,react.js - JQuery...
 
 ## Get in touch
-- Connect with me [Linkedin]([https://www.linkedin.com/in/shakthi-s-a14a88360/])
+- Connect with me [Linkedin](https://www.linkedin.com/in/shakthi-s-a14a88360/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
